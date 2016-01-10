@@ -1,3 +1,3 @@
 #!/bin/bash
 cd zipkin;
-docker-compose up
+docker-compose up -d
